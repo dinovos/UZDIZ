@@ -1,0 +1,249 @@
+Ucitane ulice
+-------------------------------------------------------
+Naziv: Pavlinska, brojMjesta: 10, udioMali: 70, udioSrednji: 20, udioVeliki: 10, brojMalih: 7, brojSrednjih: 2, brojVelikih: 1
+Naziv: Alojzija Stepinca, brojMjesta: 15, udioMali: 100, udioSrednji: 0, udioVeliki: 0, brojMalih: 15, brojSrednjih: 0, brojVelikih: 0
+Naziv: Petra Krešimira IV, brojMjesta: 37, udioMali: 50, udioSrednji: 30, udioVeliki: 20, brojMalih: 19, brojSrednjih: 11, brojVelikih: 7
+Naziv: Slavenska, brojMjesta: 28, udioMali: 70, udioSrednji: 30, udioVeliki: 0, brojMalih: 20, brojSrednjih: 8, brojVelikih: 0
+Naziv: Julija Merlića, brojMjesta: 32, udioMali: 40, udioSrednji: 20, udioVeliki: 40, brojMalih: 13, brojSrednjih: 6, brojVelikih: 13
+Naziv: Petra Preradovića, brojMjesta: 28, udioMali: 50, udioSrednji: 20, udioVeliki: 30, brojMalih: 14, brojSrednjih: 6, brojVelikih: 8
+Naziv: Ivana Kukuljevića Sakcinskog, brojMjesta: 60, udioMali: 60, udioSrednji: 20, udioVeliki: 20, brojMalih: 36, brojSrednjih: 12, brojVelikih: 12
+-------------------------------------------------------
+Ucitani spremnici
+-------------------------------------------------------
+Naziv: staklo, vrsta: 1, jedanNaMale: 10, jedanNaSrednje: 1, jedanNaVelike: 1, nosivost: 300
+Naziv: papir, vrsta: 1, jedanNaMale: 5, jedanNaSrednje: 2, jedanNaVelike: 1, nosivost: 200
+Naziv: metal, vrsta: 1, jedanNaMale: 10, jedanNaSrednje: 5, jedanNaVelike: 3, nosivost: 500
+Naziv: bio, vrsta: 1, jedanNaMale: 1, jedanNaSrednje: 1, jedanNaVelike: 1, nosivost: 120
+Naziv: mješano, vrsta: 0, jedanNaMale: 1, jedanNaSrednje: 0, jedanNaVelike: 0, nosivost: 120
+Naziv: mješano, vrsta: 1, jedanNaMale: 0, jedanNaSrednje: 3, jedanNaVelike: 1, nosivost: 300
+-------------------------------------------------------
+Ucitana vozila
+-------------------------------------------------------
+Naziv: staklarko 1, tip: 1, vrsta: 0, nosivost: 4000, vozaci: pero, ivo
+Naziv: papirko 1  , tip: 1, vrsta: 1, nosivost: 3000, vozaci: jura, borko
+Naziv: metalko 1  , tip: 1, vrsta: 2, nosivost: 5000, vozaci: tvrtko, kiki
+Naziv: biotko 1   , tip: 1, vrsta: 3, nosivost: 3000, vozaci: vesna, rajka
+Naziv: mješanko 1 , tip: 0, vrsta: 4, nosivost: 4000, vozaci: zoki, sven, luka
+Naziv: mješanko 2 , tip: 0, vrsta: 4, nosivost: 5000, vozaci: hinko, blaž, fran
+Naziv: mješanko 3 , tip: 0, vrsta: 4, nosivost: 3000, vozaci: dudo, viki, miki
+-------------------------------------------------------
+Kreirani korisnici
+-------------------------------------------------------
+Id: 1, Ulica: Pavlinska, Vrsta: mali, stakleniOtpad: 1.68, papirnatiOtpad: 3.98, metalniOtpad: 1.89, bioOtpad: 6.59, mjesaniOtpad: 28.83
+Id: 2, Ulica: Pavlinska, Vrsta: mali, stakleniOtpad: 2.74, papirnatiOtpad: 2.36, metalniOtpad: 0.66, bioOtpad: 3.45, mjesaniOtpad: 21.41
+Id: 3, Ulica: Pavlinska, Vrsta: mali, stakleniOtpad: 0.29, papirnatiOtpad: 2.44, metalniOtpad: 1.39, bioOtpad: 6.61, mjesaniOtpad: 17.49
+Id: 4, Ulica: Pavlinska, Vrsta: mali, stakleniOtpad: 1.4, papirnatiOtpad: 3.37, metalniOtpad: 0.14, bioOtpad: 6.38, mjesaniOtpad: 12.91
+Id: 5, Ulica: Pavlinska, Vrsta: mali, stakleniOtpad: 1.01, papirnatiOtpad: 0.01, metalniOtpad: 0.6, bioOtpad: 5.08, mjesaniOtpad: 28.69
+Id: 6, Ulica: Pavlinska, Vrsta: mali, stakleniOtpad: 3.25, papirnatiOtpad: 3.56, metalniOtpad: 1.36, bioOtpad: 1.53, mjesaniOtpad: 11.6
+Id: 7, Ulica: Pavlinska, Vrsta: mali, stakleniOtpad: 2.98, papirnatiOtpad: 0.54, metalniOtpad: 1.65, bioOtpad: 9.2, mjesaniOtpad: 29.71
+Id: 8, Ulica: Pavlinska, Vrsta: srednji, stakleniOtpad: 11.89, papirnatiOtpad: 0.17, metalniOtpad: 0.7, bioOtpad: 47.81, mjesaniOtpad: 58.48
+Id: 9, Ulica: Pavlinska, Vrsta: srednji, stakleniOtpad: 1.04, papirnatiOtpad: 12.93, metalniOtpad: 1.2, bioOtpad: 29.75, mjesaniOtpad: 20.87
+Id: 10, Ulica: Pavlinska, Vrsta: veliki, stakleniOtpad: 21.78, papirnatiOtpad: 127.08, metalniOtpad: 10.54, bioOtpad: 207.0, mjesaniOtpad: 290.76
+Id: 11, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 1.85, papirnatiOtpad: 2.35, metalniOtpad: 0.49, bioOtpad: 6.71, mjesaniOtpad: 3.06
+Id: 12, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 6.13, papirnatiOtpad: 3.83, metalniOtpad: 1.33, bioOtpad: 8.27, mjesaniOtpad: 27.73
+Id: 13, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 6.44, papirnatiOtpad: 4.1, metalniOtpad: 2.07, bioOtpad: 9.11, mjesaniOtpad: 21.45
+Id: 14, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 0.36, papirnatiOtpad: 3.67, metalniOtpad: 1.0, bioOtpad: 4.53, mjesaniOtpad: 10.18
+Id: 15, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 0.75, papirnatiOtpad: 4.81, metalniOtpad: 2.52, bioOtpad: 5.11, mjesaniOtpad: 14.63
+Id: 16, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 3.05, papirnatiOtpad: 0.48, metalniOtpad: 0.28, bioOtpad: 4.82, mjesaniOtpad: 20.31
+Id: 17, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 3.39, papirnatiOtpad: 2.43, metalniOtpad: 2.8, bioOtpad: 2.07, mjesaniOtpad: 19.79
+Id: 18, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 2.53, papirnatiOtpad: 2.19, metalniOtpad: 1.38, bioOtpad: 4.7, mjesaniOtpad: 24.93
+Id: 19, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 0.54, papirnatiOtpad: 4.64, metalniOtpad: 0.82, bioOtpad: 1.42, mjesaniOtpad: 5.95
+Id: 20, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 3.84, papirnatiOtpad: 2.34, metalniOtpad: 1.27, bioOtpad: 2.8, mjesaniOtpad: 26.41
+Id: 21, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 4.1, papirnatiOtpad: 2.9, metalniOtpad: 2.83, bioOtpad: 7.2, mjesaniOtpad: 10.09
+Id: 22, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 1.41, papirnatiOtpad: 3.03, metalniOtpad: 0.55, bioOtpad: 7.96, mjesaniOtpad: 14.45
+Id: 23, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 6.73, papirnatiOtpad: 3.72, metalniOtpad: 2.46, bioOtpad: 9.5, mjesaniOtpad: 3.39
+Id: 24, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 6.62, papirnatiOtpad: 0.56, metalniOtpad: 1.72, bioOtpad: 6.3, mjesaniOtpad: 19.01
+Id: 25, Ulica: Alojzija Stepinca, Vrsta: mali, stakleniOtpad: 3.99, papirnatiOtpad: 0.66, metalniOtpad: 2.11, bioOtpad: 6.34, mjesaniOtpad: 24.3
+Id: 26, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 5.28, papirnatiOtpad: 2.01, metalniOtpad: 2.01, bioOtpad: 8.44, mjesaniOtpad: 24.22
+Id: 27, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 6.33, papirnatiOtpad: 1.88, metalniOtpad: 0.21, bioOtpad: 5.49, mjesaniOtpad: 3.48
+Id: 28, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 6.48, papirnatiOtpad: 4.56, metalniOtpad: 2.65, bioOtpad: 3.43, mjesaniOtpad: 19.18
+Id: 29, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 3.39, papirnatiOtpad: 1.54, metalniOtpad: 2.51, bioOtpad: 5.54, mjesaniOtpad: 6.53
+Id: 30, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 5.74, papirnatiOtpad: 4.79, metalniOtpad: 2.41, bioOtpad: 3.93, mjesaniOtpad: 16.8
+Id: 31, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 3.99, papirnatiOtpad: 3.65, metalniOtpad: 0.32, bioOtpad: 6.56, mjesaniOtpad: 26.78
+Id: 32, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 4.42, papirnatiOtpad: 4.77, metalniOtpad: 1.58, bioOtpad: 6.88, mjesaniOtpad: 4.49
+Id: 33, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 2.73, papirnatiOtpad: 3.42, metalniOtpad: 0.73, bioOtpad: 8.97, mjesaniOtpad: 10.41
+Id: 34, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 5.3, papirnatiOtpad: 3.53, metalniOtpad: 1.44, bioOtpad: 8.29, mjesaniOtpad: 7.65
+Id: 35, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 2.17, papirnatiOtpad: 2.28, metalniOtpad: 0.86, bioOtpad: 5.12, mjesaniOtpad: 7.95
+Id: 36, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 3.85, papirnatiOtpad: 4.14, metalniOtpad: 0.52, bioOtpad: 7.37, mjesaniOtpad: 6.84
+Id: 37, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 5.58, papirnatiOtpad: 2.43, metalniOtpad: 0.71, bioOtpad: 5.29, mjesaniOtpad: 29.05
+Id: 38, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 1.9, papirnatiOtpad: 1.21, metalniOtpad: 0.29, bioOtpad: 2.69, mjesaniOtpad: 4.6
+Id: 39, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 4.21, papirnatiOtpad: 0.47, metalniOtpad: 1.4, bioOtpad: 3.41, mjesaniOtpad: 11.74
+Id: 40, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 3.84, papirnatiOtpad: 3.56, metalniOtpad: 0.83, bioOtpad: 9.73, mjesaniOtpad: 12.31
+Id: 41, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 3.94, papirnatiOtpad: 0.85, metalniOtpad: 1.89, bioOtpad: 7.57, mjesaniOtpad: 25.59
+Id: 42, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 2.68, papirnatiOtpad: 0.08, metalniOtpad: 2.21, bioOtpad: 1.33, mjesaniOtpad: 28.95
+Id: 43, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 3.89, papirnatiOtpad: 2.0, metalniOtpad: 0.17, bioOtpad: 5.75, mjesaniOtpad: 19.35
+Id: 44, Ulica: Petra Krešimira IV, Vrsta: mali, stakleniOtpad: 5.12, papirnatiOtpad: 1.49, metalniOtpad: 2.94, bioOtpad: 4.04, mjesaniOtpad: 8.91
+Id: 45, Ulica: Petra Krešimira IV, Vrsta: srednji, stakleniOtpad: 19.82, papirnatiOtpad: 14.86, metalniOtpad: 1.19, bioOtpad: 20.3, mjesaniOtpad: 88.49
+Id: 46, Ulica: Petra Krešimira IV, Vrsta: srednji, stakleniOtpad: 5.04, papirnatiOtpad: 6.71, metalniOtpad: 1.2, bioOtpad: 39.56, mjesaniOtpad: 71.15
+Id: 47, Ulica: Petra Krešimira IV, Vrsta: srednji, stakleniOtpad: 2.0, papirnatiOtpad: 8.28, metalniOtpad: 0.28, bioOtpad: 10.92, mjesaniOtpad: 10.44
+Id: 48, Ulica: Petra Krešimira IV, Vrsta: srednji, stakleniOtpad: 4.8, papirnatiOtpad: 7.35, metalniOtpad: 0.85, bioOtpad: 47.27, mjesaniOtpad: 7.52
+Id: 49, Ulica: Petra Krešimira IV, Vrsta: srednji, stakleniOtpad: 6.6, papirnatiOtpad: 10.54, metalniOtpad: 4.35, bioOtpad: 44.94, mjesaniOtpad: 72.04
+Id: 50, Ulica: Petra Krešimira IV, Vrsta: srednji, stakleniOtpad: 18.66, papirnatiOtpad: 6.96, metalniOtpad: 1.93, bioOtpad: 18.92, mjesaniOtpad: 13.73
+Id: 51, Ulica: Petra Krešimira IV, Vrsta: srednji, stakleniOtpad: 12.36, papirnatiOtpad: 13.11, metalniOtpad: 3.25, bioOtpad: 37.56, mjesaniOtpad: 29.32
+Id: 52, Ulica: Petra Krešimira IV, Vrsta: srednji, stakleniOtpad: 1.38, papirnatiOtpad: 2.58, metalniOtpad: 1.21, bioOtpad: 37.35, mjesaniOtpad: 88.26
+Id: 53, Ulica: Petra Krešimira IV, Vrsta: srednji, stakleniOtpad: 15.49, papirnatiOtpad: 1.06, metalniOtpad: 3.25, bioOtpad: 43.02, mjesaniOtpad: 17.78
+Id: 54, Ulica: Petra Krešimira IV, Vrsta: srednji, stakleniOtpad: 5.37, papirnatiOtpad: 0.47, metalniOtpad: 4.59, bioOtpad: 13.32, mjesaniOtpad: 56.65
+Id: 55, Ulica: Petra Krešimira IV, Vrsta: srednji, stakleniOtpad: 19.16, papirnatiOtpad: 5.15, metalniOtpad: 4.36, bioOtpad: 48.7, mjesaniOtpad: 27.78
+Id: 56, Ulica: Petra Krešimira IV, Vrsta: veliki, stakleniOtpad: 36.2, papirnatiOtpad: 141.78, metalniOtpad: 7.0, bioOtpad: 180.43, mjesaniOtpad: 40.8
+Id: 57, Ulica: Petra Krešimira IV, Vrsta: veliki, stakleniOtpad: 29.23, papirnatiOtpad: 143.19, metalniOtpad: 11.05, bioOtpad: 51.92, mjesaniOtpad: 297.86
+Id: 58, Ulica: Petra Krešimira IV, Vrsta: veliki, stakleniOtpad: 45.73, papirnatiOtpad: 123.27, metalniOtpad: 4.47, bioOtpad: 168.84, mjesaniOtpad: 224.98
+Id: 59, Ulica: Petra Krešimira IV, Vrsta: veliki, stakleniOtpad: 20.75, papirnatiOtpad: 5.55, metalniOtpad: 14.33, bioOtpad: 59.23, mjesaniOtpad: 16.7
+Id: 60, Ulica: Petra Krešimira IV, Vrsta: veliki, stakleniOtpad: 36.41, papirnatiOtpad: 116.96, metalniOtpad: 22.36, bioOtpad: 138.3, mjesaniOtpad: 27.55
+Id: 61, Ulica: Petra Krešimira IV, Vrsta: veliki, stakleniOtpad: 45.53, papirnatiOtpad: 107.56, metalniOtpad: 24.39, bioOtpad: 209.87, mjesaniOtpad: 70.61
+Id: 62, Ulica: Petra Krešimira IV, Vrsta: veliki, stakleniOtpad: 13.91, papirnatiOtpad: 78.03, metalniOtpad: 4.97, bioOtpad: 246.26, mjesaniOtpad: 290.31
+Id: 63, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 6.27, papirnatiOtpad: 3.37, metalniOtpad: 1.41, bioOtpad: 9.42, mjesaniOtpad: 11.47
+Id: 64, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 5.14, papirnatiOtpad: 3.5, metalniOtpad: 2.13, bioOtpad: 2.36, mjesaniOtpad: 29.41
+Id: 65, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 6.19, papirnatiOtpad: 4.87, metalniOtpad: 0.5, bioOtpad: 2.24, mjesaniOtpad: 4.34
+Id: 66, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 1.45, papirnatiOtpad: 2.92, metalniOtpad: 0.46, bioOtpad: 3.07, mjesaniOtpad: 3.1
+Id: 67, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 5.84, papirnatiOtpad: 3.28, metalniOtpad: 0.63, bioOtpad: 5.27, mjesaniOtpad: 15.63
+Id: 68, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 0.68, papirnatiOtpad: 4.76, metalniOtpad: 2.04, bioOtpad: 2.55, mjesaniOtpad: 29.8
+Id: 69, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 6.5, papirnatiOtpad: 0.94, metalniOtpad: 1.34, bioOtpad: 4.53, mjesaniOtpad: 21.22
+Id: 70, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 2.96, papirnatiOtpad: 0.88, metalniOtpad: 2.87, bioOtpad: 6.94, mjesaniOtpad: 27.46
+Id: 71, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 3.52, papirnatiOtpad: 2.31, metalniOtpad: 2.55, bioOtpad: 4.55, mjesaniOtpad: 11.24
+Id: 72, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 2.47, papirnatiOtpad: 2.94, metalniOtpad: 1.78, bioOtpad: 4.81, mjesaniOtpad: 24.66
+Id: 73, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 4.9, papirnatiOtpad: 4.29, metalniOtpad: 1.28, bioOtpad: 7.29, mjesaniOtpad: 3.59
+Id: 74, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 1.3, papirnatiOtpad: 0.84, metalniOtpad: 2.51, bioOtpad: 2.07, mjesaniOtpad: 29.81
+Id: 75, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 5.24, papirnatiOtpad: 3.06, metalniOtpad: 1.63, bioOtpad: 4.67, mjesaniOtpad: 6.76
+Id: 76, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 0.39, papirnatiOtpad: 4.04, metalniOtpad: 0.83, bioOtpad: 6.52, mjesaniOtpad: 5.44
+Id: 77, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 6.12, papirnatiOtpad: 4.12, metalniOtpad: 2.68, bioOtpad: 1.64, mjesaniOtpad: 22.83
+Id: 78, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 3.88, papirnatiOtpad: 4.37, metalniOtpad: 1.91, bioOtpad: 7.25, mjesaniOtpad: 21.24
+Id: 79, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 2.15, papirnatiOtpad: 4.61, metalniOtpad: 2.84, bioOtpad: 1.39, mjesaniOtpad: 25.72
+Id: 80, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 0.93, papirnatiOtpad: 2.71, metalniOtpad: 2.72, bioOtpad: 5.65, mjesaniOtpad: 15.73
+Id: 81, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 6.11, papirnatiOtpad: 2.65, metalniOtpad: 1.33, bioOtpad: 7.42, mjesaniOtpad: 15.91
+Id: 82, Ulica: Slavenska, Vrsta: mali, stakleniOtpad: 2.29, papirnatiOtpad: 1.2, metalniOtpad: 2.99, bioOtpad: 5.66, mjesaniOtpad: 10.1
+Id: 83, Ulica: Slavenska, Vrsta: srednji, stakleniOtpad: 8.44, papirnatiOtpad: 4.57, metalniOtpad: 2.09, bioOtpad: 44.3, mjesaniOtpad: 25.59
+Id: 84, Ulica: Slavenska, Vrsta: srednji, stakleniOtpad: 4.88, papirnatiOtpad: 5.56, metalniOtpad: 0.56, bioOtpad: 28.02, mjesaniOtpad: 50.02
+Id: 85, Ulica: Slavenska, Vrsta: srednji, stakleniOtpad: 18.44, papirnatiOtpad: 8.1, metalniOtpad: 3.1, bioOtpad: 32.37, mjesaniOtpad: 44.85
+Id: 86, Ulica: Slavenska, Vrsta: srednji, stakleniOtpad: 16.74, papirnatiOtpad: 9.46, metalniOtpad: 1.12, bioOtpad: 35.34, mjesaniOtpad: 44.22
+Id: 87, Ulica: Slavenska, Vrsta: srednji, stakleniOtpad: 4.87, papirnatiOtpad: 2.57, metalniOtpad: 2.0, bioOtpad: 22.39, mjesaniOtpad: 79.27
+Id: 88, Ulica: Slavenska, Vrsta: srednji, stakleniOtpad: 16.76, papirnatiOtpad: 6.02, metalniOtpad: 1.57, bioOtpad: 44.14, mjesaniOtpad: 71.01
+Id: 89, Ulica: Slavenska, Vrsta: srednji, stakleniOtpad: 6.63, papirnatiOtpad: 14.68, metalniOtpad: 4.78, bioOtpad: 23.49, mjesaniOtpad: 95.89
+Id: 90, Ulica: Slavenska, Vrsta: srednji, stakleniOtpad: 3.86, papirnatiOtpad: 2.7, metalniOtpad: 0.53, bioOtpad: 8.57, mjesaniOtpad: 46.57
+Id: 91, Ulica: Julija Merlića, Vrsta: mali, stakleniOtpad: 4.11, papirnatiOtpad: 1.11, metalniOtpad: 0.82, bioOtpad: 2.71, mjesaniOtpad: 24.06
+Id: 92, Ulica: Julija Merlića, Vrsta: mali, stakleniOtpad: 6.92, papirnatiOtpad: 1.86, metalniOtpad: 1.02, bioOtpad: 2.65, mjesaniOtpad: 24.61
+Id: 93, Ulica: Julija Merlića, Vrsta: mali, stakleniOtpad: 2.48, papirnatiOtpad: 2.32, metalniOtpad: 2.37, bioOtpad: 8.61, mjesaniOtpad: 14.31
+Id: 94, Ulica: Julija Merlića, Vrsta: mali, stakleniOtpad: 4.92, papirnatiOtpad: 3.02, metalniOtpad: 2.15, bioOtpad: 6.07, mjesaniOtpad: 11.86
+Id: 95, Ulica: Julija Merlića, Vrsta: mali, stakleniOtpad: 0.83, papirnatiOtpad: 2.18, metalniOtpad: 1.56, bioOtpad: 7.44, mjesaniOtpad: 4.37
+Id: 96, Ulica: Julija Merlića, Vrsta: mali, stakleniOtpad: 6.41, papirnatiOtpad: 1.48, metalniOtpad: 1.38, bioOtpad: 6.05, mjesaniOtpad: 3.32
+Id: 97, Ulica: Julija Merlića, Vrsta: mali, stakleniOtpad: 4.9, papirnatiOtpad: 1.58, metalniOtpad: 1.61, bioOtpad: 7.35, mjesaniOtpad: 15.25
+Id: 98, Ulica: Julija Merlića, Vrsta: mali, stakleniOtpad: 2.55, papirnatiOtpad: 2.94, metalniOtpad: 1.13, bioOtpad: 5.12, mjesaniOtpad: 6.27
+Id: 99, Ulica: Julija Merlića, Vrsta: mali, stakleniOtpad: 5.46, papirnatiOtpad: 4.39, metalniOtpad: 2.62, bioOtpad: 8.69, mjesaniOtpad: 4.84
+Id: 100, Ulica: Julija Merlića, Vrsta: mali, stakleniOtpad: 3.98, papirnatiOtpad: 3.9, metalniOtpad: 2.17, bioOtpad: 9.71, mjesaniOtpad: 10.72
+Id: 101, Ulica: Julija Merlića, Vrsta: mali, stakleniOtpad: 2.01, papirnatiOtpad: 3.74, metalniOtpad: 0.7, bioOtpad: 6.11, mjesaniOtpad: 9.09
+Id: 102, Ulica: Julija Merlića, Vrsta: mali, stakleniOtpad: 5.78, papirnatiOtpad: 4.26, metalniOtpad: 0.46, bioOtpad: 5.49, mjesaniOtpad: 17.08
+Id: 103, Ulica: Julija Merlića, Vrsta: mali, stakleniOtpad: 2.15, papirnatiOtpad: 4.9, metalniOtpad: 0.35, bioOtpad: 3.22, mjesaniOtpad: 28.66
+Id: 104, Ulica: Julija Merlića, Vrsta: srednji, stakleniOtpad: 11.98, papirnatiOtpad: 3.39, metalniOtpad: 2.54, bioOtpad: 4.97, mjesaniOtpad: 74.93
+Id: 105, Ulica: Julija Merlića, Vrsta: srednji, stakleniOtpad: 7.04, papirnatiOtpad: 6.06, metalniOtpad: 2.17, bioOtpad: 10.2, mjesaniOtpad: 43.68
+Id: 106, Ulica: Julija Merlića, Vrsta: srednji, stakleniOtpad: 15.42, papirnatiOtpad: 7.82, metalniOtpad: 4.73, bioOtpad: 35.68, mjesaniOtpad: 49.49
+Id: 107, Ulica: Julija Merlića, Vrsta: srednji, stakleniOtpad: 9.31, papirnatiOtpad: 7.83, metalniOtpad: 4.41, bioOtpad: 31.52, mjesaniOtpad: 71.38
+Id: 108, Ulica: Julija Merlića, Vrsta: srednji, stakleniOtpad: 16.14, papirnatiOtpad: 2.08, metalniOtpad: 0.21, bioOtpad: 8.2, mjesaniOtpad: 32.18
+Id: 109, Ulica: Julija Merlića, Vrsta: srednji, stakleniOtpad: 1.96, papirnatiOtpad: 9.29, metalniOtpad: 4.83, bioOtpad: 46.3, mjesaniOtpad: 81.85
+Id: 110, Ulica: Julija Merlića, Vrsta: veliki, stakleniOtpad: 42.26, papirnatiOtpad: 126.88, metalniOtpad: 28.39, bioOtpad: 126.7, mjesaniOtpad: 129.14
+Id: 111, Ulica: Julija Merlića, Vrsta: veliki, stakleniOtpad: 10.82, papirnatiOtpad: 14.37, metalniOtpad: 20.1, bioOtpad: 156.47, mjesaniOtpad: 295.69
+Id: 112, Ulica: Julija Merlića, Vrsta: veliki, stakleniOtpad: 48.17, papirnatiOtpad: 82.01, metalniOtpad: 25.82, bioOtpad: 91.98, mjesaniOtpad: 278.52
+Id: 113, Ulica: Julija Merlića, Vrsta: veliki, stakleniOtpad: 6.02, papirnatiOtpad: 29.81, metalniOtpad: 8.79, bioOtpad: 230.72, mjesaniOtpad: 150.63
+Id: 114, Ulica: Julija Merlića, Vrsta: veliki, stakleniOtpad: 39.11, papirnatiOtpad: 59.15, metalniOtpad: 2.8, bioOtpad: 110.57, mjesaniOtpad: 90.49
+Id: 115, Ulica: Julija Merlića, Vrsta: veliki, stakleniOtpad: 45.87, papirnatiOtpad: 60.51, metalniOtpad: 17.42, bioOtpad: 80.44, mjesaniOtpad: 281.56
+Id: 116, Ulica: Julija Merlića, Vrsta: veliki, stakleniOtpad: 16.43, papirnatiOtpad: 134.52, metalniOtpad: 24.8, bioOtpad: 68.67, mjesaniOtpad: 220.91
+Id: 117, Ulica: Julija Merlića, Vrsta: veliki, stakleniOtpad: 26.7, papirnatiOtpad: 148.86, metalniOtpad: 7.56, bioOtpad: 196.72, mjesaniOtpad: 100.73
+Id: 118, Ulica: Julija Merlića, Vrsta: veliki, stakleniOtpad: 29.94, papirnatiOtpad: 147.66, metalniOtpad: 26.45, bioOtpad: 171.65, mjesaniOtpad: 224.28
+Id: 119, Ulica: Julija Merlića, Vrsta: veliki, stakleniOtpad: 29.12, papirnatiOtpad: 84.17, metalniOtpad: 17.12, bioOtpad: 202.26, mjesaniOtpad: 297.87
+Id: 120, Ulica: Julija Merlića, Vrsta: veliki, stakleniOtpad: 45.9, papirnatiOtpad: 52.85, metalniOtpad: 14.29, bioOtpad: 107.43, mjesaniOtpad: 148.01
+Id: 121, Ulica: Julija Merlića, Vrsta: veliki, stakleniOtpad: 34.4, papirnatiOtpad: 63.56, metalniOtpad: 7.04, bioOtpad: 210.73, mjesaniOtpad: 171.85
+Id: 122, Ulica: Julija Merlića, Vrsta: veliki, stakleniOtpad: 31.27, papirnatiOtpad: 15.68, metalniOtpad: 4.17, bioOtpad: 99.16, mjesaniOtpad: 40.44
+Id: 123, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 3.27, papirnatiOtpad: 1.46, metalniOtpad: 2.7, bioOtpad: 7.84, mjesaniOtpad: 23.84
+Id: 124, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 2.59, papirnatiOtpad: 3.97, metalniOtpad: 0.11, bioOtpad: 8.43, mjesaniOtpad: 3.47
+Id: 125, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 5.96, papirnatiOtpad: 0.57, metalniOtpad: 2.27, bioOtpad: 2.15, mjesaniOtpad: 12.55
+Id: 126, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 6.3, papirnatiOtpad: 4.45, metalniOtpad: 2.48, bioOtpad: 9.43, mjesaniOtpad: 22.47
+Id: 127, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 2.52, papirnatiOtpad: 4.13, metalniOtpad: 2.05, bioOtpad: 5.4, mjesaniOtpad: 7.84
+Id: 128, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 2.75, papirnatiOtpad: 3.74, metalniOtpad: 1.25, bioOtpad: 1.93, mjesaniOtpad: 12.04
+Id: 129, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 5.02, papirnatiOtpad: 2.54, metalniOtpad: 1.14, bioOtpad: 8.38, mjesaniOtpad: 18.52
+Id: 130, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 2.95, papirnatiOtpad: 2.65, metalniOtpad: 2.62, bioOtpad: 8.55, mjesaniOtpad: 21.46
+Id: 131, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 4.66, papirnatiOtpad: 4.9, metalniOtpad: 0.51, bioOtpad: 3.5, mjesaniOtpad: 23.42
+Id: 132, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 2.86, papirnatiOtpad: 0.93, metalniOtpad: 0.73, bioOtpad: 8.75, mjesaniOtpad: 24.4
+Id: 133, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 5.12, papirnatiOtpad: 1.76, metalniOtpad: 2.94, bioOtpad: 2.38, mjesaniOtpad: 12.43
+Id: 134, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 0.11, papirnatiOtpad: 2.05, metalniOtpad: 0.84, bioOtpad: 4.92, mjesaniOtpad: 6.66
+Id: 135, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 2.67, papirnatiOtpad: 4.43, metalniOtpad: 0.73, bioOtpad: 5.73, mjesaniOtpad: 16.27
+Id: 136, Ulica: Petra Preradovića, Vrsta: mali, stakleniOtpad: 6.65, papirnatiOtpad: 3.33, metalniOtpad: 0.47, bioOtpad: 8.71, mjesaniOtpad: 20.97
+Id: 137, Ulica: Petra Preradovića, Vrsta: srednji, stakleniOtpad: 9.19, papirnatiOtpad: 10.25, metalniOtpad: 3.01, bioOtpad: 14.32, mjesaniOtpad: 69.37
+Id: 138, Ulica: Petra Preradovića, Vrsta: srednji, stakleniOtpad: 8.44, papirnatiOtpad: 1.43, metalniOtpad: 0.58, bioOtpad: 46.7, mjesaniOtpad: 88.74
+Id: 139, Ulica: Petra Preradovića, Vrsta: srednji, stakleniOtpad: 4.63, papirnatiOtpad: 3.3, metalniOtpad: 2.94, bioOtpad: 33.34, mjesaniOtpad: 30.24
+Id: 140, Ulica: Petra Preradovića, Vrsta: srednji, stakleniOtpad: 17.7, papirnatiOtpad: 6.67, metalniOtpad: 2.88, bioOtpad: 33.22, mjesaniOtpad: 5.21
+Id: 141, Ulica: Petra Preradovića, Vrsta: srednji, stakleniOtpad: 8.78, papirnatiOtpad: 9.85, metalniOtpad: 2.41, bioOtpad: 2.31, mjesaniOtpad: 94.96
+Id: 142, Ulica: Petra Preradovića, Vrsta: srednji, stakleniOtpad: 14.67, papirnatiOtpad: 0.84, metalniOtpad: 0.77, bioOtpad: 20.48, mjesaniOtpad: 10.44
+Id: 143, Ulica: Petra Preradovića, Vrsta: veliki, stakleniOtpad: 41.91, papirnatiOtpad: 15.88, metalniOtpad: 24.87, bioOtpad: 182.71, mjesaniOtpad: 190.18
+Id: 144, Ulica: Petra Preradovića, Vrsta: veliki, stakleniOtpad: 26.21, papirnatiOtpad: 148.4, metalniOtpad: 1.69, bioOtpad: 105.69, mjesaniOtpad: 151.12
+Id: 145, Ulica: Petra Preradovića, Vrsta: veliki, stakleniOtpad: 4.03, papirnatiOtpad: 5.4, metalniOtpad: 21.5, bioOtpad: 65.34, mjesaniOtpad: 242.87
+Id: 146, Ulica: Petra Preradovića, Vrsta: veliki, stakleniOtpad: 32.32, papirnatiOtpad: 28.88, metalniOtpad: 1.57, bioOtpad: 139.49, mjesaniOtpad: 163.62
+Id: 147, Ulica: Petra Preradovića, Vrsta: veliki, stakleniOtpad: 29.57, papirnatiOtpad: 38.62, metalniOtpad: 27.71, bioOtpad: 174.84, mjesaniOtpad: 44.83
+Id: 148, Ulica: Petra Preradovića, Vrsta: veliki, stakleniOtpad: 48.33, papirnatiOtpad: 22.83, metalniOtpad: 6.88, bioOtpad: 222.02, mjesaniOtpad: 120.38
+Id: 149, Ulica: Petra Preradovića, Vrsta: veliki, stakleniOtpad: 33.83, papirnatiOtpad: 35.28, metalniOtpad: 9.44, bioOtpad: 81.29, mjesaniOtpad: 21.77
+Id: 150, Ulica: Petra Preradovića, Vrsta: veliki, stakleniOtpad: 18.53, papirnatiOtpad: 125.08, metalniOtpad: 8.14, bioOtpad: 57.97, mjesaniOtpad: 153.05
+Id: 151, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 3.08, papirnatiOtpad: 1.08, metalniOtpad: 0.49, bioOtpad: 2.42, mjesaniOtpad: 25.49
+Id: 152, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 4.5, papirnatiOtpad: 4.93, metalniOtpad: 0.46, bioOtpad: 5.72, mjesaniOtpad: 28.73
+Id: 153, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 4.95, papirnatiOtpad: 0.69, metalniOtpad: 0.37, bioOtpad: 4.12, mjesaniOtpad: 8.3
+Id: 154, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 1.29, papirnatiOtpad: 4.5, metalniOtpad: 1.26, bioOtpad: 4.5, mjesaniOtpad: 22.49
+Id: 155, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 1.94, papirnatiOtpad: 2.24, metalniOtpad: 2.92, bioOtpad: 9.61, mjesaniOtpad: 10.38
+Id: 156, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 1.17, papirnatiOtpad: 1.88, metalniOtpad: 0.23, bioOtpad: 4.84, mjesaniOtpad: 11.33
+Id: 157, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 4.6, papirnatiOtpad: 2.45, metalniOtpad: 0.6, bioOtpad: 4.29, mjesaniOtpad: 4.71
+Id: 158, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 2.28, papirnatiOtpad: 0.2, metalniOtpad: 2.6, bioOtpad: 4.48, mjesaniOtpad: 13.45
+Id: 159, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 5.08, papirnatiOtpad: 1.28, metalniOtpad: 1.25, bioOtpad: 7.1, mjesaniOtpad: 22.75
+Id: 160, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 0.63, papirnatiOtpad: 0.04, metalniOtpad: 0.87, bioOtpad: 4.61, mjesaniOtpad: 29.35
+Id: 161, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 3.9, papirnatiOtpad: 4.17, metalniOtpad: 1.82, bioOtpad: 7.24, mjesaniOtpad: 22.76
+Id: 162, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 5.69, papirnatiOtpad: 2.42, metalniOtpad: 0.47, bioOtpad: 4.31, mjesaniOtpad: 18.76
+Id: 163, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 6.9, papirnatiOtpad: 4.17, metalniOtpad: 2.78, bioOtpad: 5.32, mjesaniOtpad: 19.24
+Id: 164, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 4.89, papirnatiOtpad: 0.4, metalniOtpad: 0.99, bioOtpad: 2.66, mjesaniOtpad: 14.57
+Id: 165, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 0.94, papirnatiOtpad: 1.55, metalniOtpad: 1.61, bioOtpad: 1.95, mjesaniOtpad: 9.06
+Id: 166, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 0.11, papirnatiOtpad: 1.2, metalniOtpad: 2.59, bioOtpad: 8.13, mjesaniOtpad: 11.96
+Id: 167, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 0.68, papirnatiOtpad: 2.14, metalniOtpad: 2.62, bioOtpad: 7.2, mjesaniOtpad: 4.33
+Id: 168, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 2.58, papirnatiOtpad: 0.13, metalniOtpad: 1.6, bioOtpad: 2.53, mjesaniOtpad: 11.47
+Id: 169, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 5.45, papirnatiOtpad: 3.95, metalniOtpad: 1.39, bioOtpad: 1.26, mjesaniOtpad: 21.31
+Id: 170, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 2.82, papirnatiOtpad: 1.28, metalniOtpad: 2.89, bioOtpad: 8.88, mjesaniOtpad: 5.76
+Id: 171, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 1.75, papirnatiOtpad: 2.05, metalniOtpad: 2.76, bioOtpad: 5.63, mjesaniOtpad: 21.09
+Id: 172, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 5.3, papirnatiOtpad: 3.36, metalniOtpad: 0.5, bioOtpad: 7.36, mjesaniOtpad: 6.88
+Id: 173, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 5.74, papirnatiOtpad: 1.73, metalniOtpad: 1.8, bioOtpad: 2.88, mjesaniOtpad: 6.37
+Id: 174, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 6.26, papirnatiOtpad: 4.75, metalniOtpad: 0.91, bioOtpad: 9.01, mjesaniOtpad: 26.0
+Id: 175, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 6.77, papirnatiOtpad: 2.07, metalniOtpad: 0.13, bioOtpad: 1.51, mjesaniOtpad: 16.85
+Id: 176, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 2.35, papirnatiOtpad: 4.03, metalniOtpad: 0.43, bioOtpad: 8.38, mjesaniOtpad: 19.48
+Id: 177, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 3.04, papirnatiOtpad: 1.46, metalniOtpad: 2.92, bioOtpad: 4.76, mjesaniOtpad: 18.72
+Id: 178, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 6.77, papirnatiOtpad: 2.68, metalniOtpad: 1.7, bioOtpad: 9.25, mjesaniOtpad: 11.49
+Id: 179, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 5.54, papirnatiOtpad: 2.68, metalniOtpad: 2.76, bioOtpad: 6.63, mjesaniOtpad: 22.98
+Id: 180, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 3.61, papirnatiOtpad: 0.48, metalniOtpad: 3.0, bioOtpad: 4.12, mjesaniOtpad: 11.18
+Id: 181, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 5.73, papirnatiOtpad: 1.87, metalniOtpad: 0.62, bioOtpad: 9.86, mjesaniOtpad: 22.59
+Id: 182, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 0.96, papirnatiOtpad: 2.71, metalniOtpad: 1.47, bioOtpad: 4.18, mjesaniOtpad: 11.02
+Id: 183, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 3.01, papirnatiOtpad: 2.35, metalniOtpad: 1.91, bioOtpad: 7.54, mjesaniOtpad: 26.81
+Id: 184, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 3.91, papirnatiOtpad: 0.75, metalniOtpad: 0.5, bioOtpad: 7.53, mjesaniOtpad: 6.05
+Id: 185, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 4.34, papirnatiOtpad: 4.07, metalniOtpad: 0.41, bioOtpad: 9.54, mjesaniOtpad: 9.64
+Id: 186, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: mali, stakleniOtpad: 5.76, papirnatiOtpad: 4.94, metalniOtpad: 1.91, bioOtpad: 9.13, mjesaniOtpad: 4.4
+Id: 187, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: srednji, stakleniOtpad: 3.39, papirnatiOtpad: 12.36, metalniOtpad: 4.7, bioOtpad: 8.41, mjesaniOtpad: 22.22
+Id: 188, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: srednji, stakleniOtpad: 12.7, papirnatiOtpad: 6.71, metalniOtpad: 1.74, bioOtpad: 4.78, mjesaniOtpad: 95.7
+Id: 189, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: srednji, stakleniOtpad: 15.28, papirnatiOtpad: 10.79, metalniOtpad: 3.59, bioOtpad: 42.4, mjesaniOtpad: 97.28
+Id: 190, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: srednji, stakleniOtpad: 5.12, papirnatiOtpad: 2.95, metalniOtpad: 4.58, bioOtpad: 39.4, mjesaniOtpad: 26.49
+Id: 191, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: srednji, stakleniOtpad: 13.91, papirnatiOtpad: 12.69, metalniOtpad: 2.78, bioOtpad: 33.95, mjesaniOtpad: 32.37
+Id: 192, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: srednji, stakleniOtpad: 8.53, papirnatiOtpad: 9.02, metalniOtpad: 0.37, bioOtpad: 34.93, mjesaniOtpad: 95.52
+Id: 193, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: srednji, stakleniOtpad: 14.09, papirnatiOtpad: 11.68, metalniOtpad: 1.65, bioOtpad: 20.34, mjesaniOtpad: 39.76
+Id: 194, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: srednji, stakleniOtpad: 6.76, papirnatiOtpad: 12.76, metalniOtpad: 0.56, bioOtpad: 41.04, mjesaniOtpad: 49.65
+Id: 195, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: srednji, stakleniOtpad: 15.64, papirnatiOtpad: 3.21, metalniOtpad: 4.28, bioOtpad: 19.13, mjesaniOtpad: 91.21
+Id: 196, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: srednji, stakleniOtpad: 11.53, papirnatiOtpad: 12.48, metalniOtpad: 1.05, bioOtpad: 9.93, mjesaniOtpad: 8.32
+Id: 197, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: srednji, stakleniOtpad: 3.47, papirnatiOtpad: 5.15, metalniOtpad: 0.37, bioOtpad: 42.16, mjesaniOtpad: 50.21
+Id: 198, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: srednji, stakleniOtpad: 19.02, papirnatiOtpad: 9.22, metalniOtpad: 4.7, bioOtpad: 41.05, mjesaniOtpad: 67.23
+Id: 199, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: veliki, stakleniOtpad: 32.07, papirnatiOtpad: 28.6, metalniOtpad: 5.96, bioOtpad: 212.07, mjesaniOtpad: 40.73
+Id: 200, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: veliki, stakleniOtpad: 12.02, papirnatiOtpad: 37.0, metalniOtpad: 17.65, bioOtpad: 135.83, mjesaniOtpad: 283.1
+Id: 201, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: veliki, stakleniOtpad: 41.42, papirnatiOtpad: 129.65, metalniOtpad: 29.19, bioOtpad: 122.85, mjesaniOtpad: 91.53
+Id: 202, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: veliki, stakleniOtpad: 43.39, papirnatiOtpad: 77.32, metalniOtpad: 13.94, bioOtpad: 238.29, mjesaniOtpad: 239.46
+Id: 203, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: veliki, stakleniOtpad: 13.79, papirnatiOtpad: 136.09, metalniOtpad: 20.53, bioOtpad: 56.9, mjesaniOtpad: 130.81
+Id: 204, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: veliki, stakleniOtpad: 4.67, papirnatiOtpad: 105.23, metalniOtpad: 22.7, bioOtpad: 192.87, mjesaniOtpad: 83.15
+Id: 205, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: veliki, stakleniOtpad: 33.17, papirnatiOtpad: 105.63, metalniOtpad: 15.32, bioOtpad: 47.41, mjesaniOtpad: 174.25
+Id: 206, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: veliki, stakleniOtpad: 35.71, papirnatiOtpad: 121.79, metalniOtpad: 22.99, bioOtpad: 211.34, mjesaniOtpad: 210.06
+Id: 207, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: veliki, stakleniOtpad: 1.44, papirnatiOtpad: 79.18, metalniOtpad: 9.04, bioOtpad: 78.9, mjesaniOtpad: 207.31
+Id: 208, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: veliki, stakleniOtpad: 12.03, papirnatiOtpad: 83.31, metalniOtpad: 15.89, bioOtpad: 14.1, mjesaniOtpad: 242.38
+Id: 209, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: veliki, stakleniOtpad: 22.39, papirnatiOtpad: 82.63, metalniOtpad: 23.96, bioOtpad: 236.64, mjesaniOtpad: 131.05
+Id: 210, Ulica: Ivana Kukuljevića Sakcinskog, Vrsta: veliki, stakleniOtpad: 38.77, papirnatiOtpad: 53.6, metalniOtpad: 25.28, bioOtpad: 229.05, mjesaniOtpad: 21.65
+-------------------------------------------------------
+BIO otpad: 7928.3584
+METAL otpad: 920.2202
+MJESANO otpad: 10946.491
+STAKLO otpad: 2100.5798
+PAPIR otpad: 3975.0688
+-------------------------------------------------------
+UKUPNO otpada: 25870.719
